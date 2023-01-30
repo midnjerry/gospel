@@ -1,4 +1,4 @@
-# gospel
+# The Gospel of Jesus Christ (in chronological order per Gospel of Luke)
 
 ## Project setup
 ```
